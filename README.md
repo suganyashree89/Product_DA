@@ -57,14 +57,6 @@ Used to classify products based on their prices.
 =IF(D2>=500,"High Price","Standard Price")
 ```
 
-**AND Function**
-
-Used to check multiple conditions simultaneously.
-
-```excel
-=IF(AND(D2>=500,E2>=20),"High Value Stock","Regular Stock")
-```
-
 ### 2. Text Processing Functions
 
 **LEFT Function**
